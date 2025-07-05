@@ -1,5 +1,12 @@
-streamlit
-pandas
-sqlalchemy
-psycopg2-binary
-bcrypt
+# Web Framework
+streamlit==1.46.1
+
+# Data Analysis
+pandas==2.3.0
+
+# Database
+sqlalchemy==2.0.41
+psycopg2-binary==2.9.10
+
+# Security
+bcrypt==4.3.0
